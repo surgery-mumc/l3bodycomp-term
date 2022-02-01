@@ -3,7 +3,7 @@ import shutil
 import argparse
 
 from validate import *
-from barbell2.utils import is_dicom_file, get_tag_file_for_dicom
+from barbell2light.dicom import is_dicom_file, get_tag_file_for_dicom
 
 
 def get_args():

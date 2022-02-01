@@ -1,0 +1,9 @@
+pandas
+pydicom
+matplotlib
+barbell2light
+numpy~=1.19.2
+pillow
+tensorflow==2.5.0
+six~=1.15.0
+wheel
