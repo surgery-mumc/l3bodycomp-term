@@ -30,6 +30,7 @@ In the file validate_model.sh set the following environment variables:
     export OUTPUT_DIR=<path to (non-existing) output directory where results are stored>
 
 WARNING: do not use spaces in directory paths!!
+WARNING: the OUTPUT_DIR cannot exist! If you rerun the tool, delete it first
 
 Then run the tool (with virtual environment activated):
 
